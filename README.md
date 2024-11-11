@@ -1,4 +1,4 @@
-# POWER BI Hard
+# POWER BI HARD
 
    Este repositório reúne diversos dashboards criados no Power BI, 
 voltados para a visualização e análise de dados em diferentes áreas e contextos. 
